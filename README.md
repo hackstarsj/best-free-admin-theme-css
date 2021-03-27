@@ -51,7 +51,7 @@
 
 ## 5 Material Dashboard Admin Theme 
 
-<img src="screenshots/material_dashboard.PNG" style="width:100%"/>
+<img src="screenshots/material_dahsboard.PNG" style="width:100%"/>
 <br>
 <a href="https://demos.creative-tim.com/material-dashboard/examples/dashboard.html">Preview</a>
 <br>
