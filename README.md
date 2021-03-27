@@ -48,3 +48,16 @@
 <br>
 <hr>
 <br>
+
+## 5 Material Dashboard Admin Theme 
+
+<img src="screenshots/material_dashboard.PNG" style="width:100%"/>
+<br>
+<a href="https://demos.creative-tim.com/material-dashboard/examples/dashboard.html">Preview</a>
+<br>
+<a href="https://www.creative-tim.com/product/material-dashboard">Link</a>
+
+<br>
+<hr>
+<br>
+
