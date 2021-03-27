@@ -36,3 +36,15 @@
 <br>
 <hr>
 <br>
+
+## 4 Adminator Admin Theme 
+
+<img src="screenshots/adminator.PNG" style="width:100%"/>
+<br>
+<a href="https://colorlib.com/polygon/adminator/index.html">Preview</a>
+<br>
+<a href="https://github.com/puikinsh/Adminator-admin-dashboard">Github Link</a>
+
+<br>
+<hr>
+<br>
