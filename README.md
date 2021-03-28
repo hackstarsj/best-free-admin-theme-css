@@ -84,3 +84,15 @@
 <hr>
 <br>
 
+## 8 Mazer Admin Theme 
+
+<img src="screenshots/mazer.PNG" style="width:100%"/>
+<br>
+<a href="https://zuramai.github.io/mazer/demo/index.html">Preview</a>
+<br>
+<a href="https://github.com/zuramai/mazer">Link</a>
+
+<br>
+<hr>
+<br>
+
