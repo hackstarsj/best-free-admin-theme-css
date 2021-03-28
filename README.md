@@ -108,3 +108,15 @@
 <hr>
 <br>
 
+## 10 Stsila Admin Theme 
+
+<img src="screenshots/stsila.PNG" style="width:100%"/>
+<br>
+<a href="https://demo.getstisla.com/index.html">Preview</a>
+<br>
+<a href="https://github.com/stisla/stisla">Link</a>
+
+<br>
+<hr>
+<br>
+
