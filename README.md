@@ -61,3 +61,15 @@
 <hr>
 <br>
 
+## 6 CORE UI Admin Theme 
+
+<img src="screenshots/coreui.PNG" style="width:100%"/>
+<br>
+<a href="https://coreui.io/demo/free/3.4.0/index.html">Preview</a>
+<br>
+<a href="https://coreui.io/index.html">Link</a>
+
+<br>
+<hr>
+<br>
+
