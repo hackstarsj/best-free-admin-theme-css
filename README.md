@@ -96,3 +96,15 @@
 <hr>
 <br>
 
+## 9 Label Admin Theme 
+
+<img src="screenshots/label.PNG" style="width:100%"/>
+<br>
+<a href="https://uxcandy.co/demo/label-free/preview/demo_1/index.html">Preview</a>
+<br>
+<a href="https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template">Link</a>
+
+<br>
+<hr>
+<br>
+
